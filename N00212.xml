@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:000273_0000_0FA4C2D6BB03BA20"/>
-            <pb facs="tcp:000273_0001_0FA4C2D6CFC90400"/>
+            <pb facs="unknown:000273_0000_0FA4C2D6BB03BA20"/>
+            <pb facs="unknown:000273_0001_0FA4C2D6CFC90400"/>
             <head>
                <figure/> AT A GENERAL COURT Held at <hi>Boston,</hi>
                <date>October <hi>15. 1679.</hi>
